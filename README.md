@@ -1,5 +1,6 @@
-# soundnessguide
+# soundnessguide by RYOMEN
 
+join: https://t.me/airdropminingprojectss
 
 <h1>Soundness Testnet Guide</h1>
 
